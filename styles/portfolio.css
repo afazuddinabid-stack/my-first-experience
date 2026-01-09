@@ -275,3 +275,27 @@ nav{
     
 }
 
+.footer-container{
+    background-color: #001931;
+    width:100%;
+    padding: 60px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0.90px;
+}
+
+.footer-link p{
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 500px;
+}
+.copyright{
+    background-color: #001931;
+    text-align: center;
+    color: #FAFAFA;
+    padding: 20px;
+    vertical-align: middle;
+    border-top: #FAFAFA;
+    border-radius: 4px solid;
+}
+
