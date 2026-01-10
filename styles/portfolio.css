@@ -161,6 +161,7 @@ nav{
     text-align: center;
     max-width: 322px;
     
+    
 }
 .card i{
   background-color: #ff5a5f; 
@@ -234,7 +235,7 @@ nav{
 
     
 }
-.brain-content.two{
+.two{
     color: #627382;
     font-size: 16px;
     font-weight: 400px;
@@ -275,27 +276,55 @@ nav{
     
 }
 
+.access-content i{
+    padding-left: 8px;
+    align-items: center;
+}
+
 .footer-container{
     background-color: #001931;
     width:100%;
     padding: 60px;
     display: flex;
     justify-content: space-between;
-    margin-bottom: 0.90px;
+    margin-bottom:1px ;
 }
 
 .footer-link p{
     color: #FFFFFF;
     font-size: 20px;
     font-weight: 500px;
+    margin-bottom: 10px;
 }
+
+.link a {
+  background-color:white; 
+  color: black;              
+  width: 30px;
+  height: 30px;
+   justify-content: center;
+  border-radius: 80%;        
+  font-size: 15px;
+  align-items: center;
+  text-align: center;
+  padding: 2px;
+  
+  
+  
+
+}
+
 .copyright{
     background-color: #001931;
-    text-align: center;
+   
+}
+.copyright p{
+     text-align: center;
     color: #FAFAFA;
     padding: 20px;
     vertical-align: middle;
     border-top: #FAFAFA;
     border-radius: 4px solid;
+
 }
 
